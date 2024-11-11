@@ -1,4 +1,4 @@
 # guptas-demo
 This is my first Git Repository.
 <br>
-Author - Aditya Gupta
+Author - Nitin Gupta
